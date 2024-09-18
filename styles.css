@@ -8,6 +8,9 @@ body {
   background-color: hsl(212, 45%, 89%);
   padding: 0;
   margin: 0;
+}
+
+main {
   display: flex;
   align-items: center;
   justify-content: space-between;
